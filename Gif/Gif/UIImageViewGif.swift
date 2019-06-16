@@ -1,10 +1,11 @@
 //
-//  UIImageGif.swift
+//  UIImageViewGif.swift
 //  Gif
 //
 //  Created by Jack on 2019/6/17.
 //  Copyright © 2019 Howeix. All rights reserved.
 //
+
 import UIKit
 extension UIImageView {
     static func JHCreateGIF(imageView: UIImageView, imageName: String, imageExtName: String? = nil) -> UIImageView {

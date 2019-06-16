@@ -15,7 +15,7 @@
 		04D645D422B69B1C0093C09A /* GifTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04D645D322B69B1C0093C09A /* GifTests.swift */; };
 		04D645DF22B69B1C0093C09A /* GifUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04D645DE22B69B1C0093C09A /* GifUITests.swift */; };
 		04D645EF22B6A8070093C09A /* Gif1.gif in Resources */ = {isa = PBXBuildFile; fileRef = 04D645EE22B6A8070093C09A /* Gif1.gif */; };
-		04D645F122B6AF950093C09A /* UIImageGif.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04D645F022B6AF950093C09A /* UIImageGif.swift */; };
+		04D645F322B6B0500093C09A /* UIImageViewGif.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04D645F222B6B0500093C09A /* UIImageViewGif.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -50,7 +50,7 @@
 		04D645DE22B69B1C0093C09A /* GifUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GifUITests.swift; sourceTree = "<group>"; };
 		04D645E022B69B1C0093C09A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		04D645EE22B6A8070093C09A /* Gif1.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = Gif1.gif; sourceTree = "<group>"; };
-		04D645F022B6AF950093C09A /* UIImageGif.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UIImageGif.swift; sourceTree = "<group>"; };
+		04D645F222B6B0500093C09A /* UIImageViewGif.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UIImageViewGif.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,7 +103,7 @@
 			children = (
 				04D645BE22B69B190093C09A /* AppDelegate.swift */,
 				04D645C022B69B190093C09A /* ViewController.swift */,
-				04D645F022B6AF950093C09A /* UIImageGif.swift */,
+				04D645F222B6B0500093C09A /* UIImageViewGif.swift */,
 				04D645EE22B6A8070093C09A /* Gif1.gif */,
 				04D645C222B69B190093C09A /* Main.storyboard */,
 				04D645C522B69B1C0093C09A /* Assets.xcassets */,
@@ -264,7 +264,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				04D645C122B69B190093C09A /* ViewController.swift in Sources */,
-				04D645F122B6AF950093C09A /* UIImageGif.swift in Sources */,
+				04D645F322B6B0500093C09A /* UIImageViewGif.swift in Sources */,
 				04D645BF22B69B190093C09A /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
